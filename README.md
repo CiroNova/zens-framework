@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Zens Logo](assets/logo.png)
+![Logo](https://github.com/user-attachments/assets/c71d5f34-ad71-4d81-ae6f-a18cce8ea953)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue)](https://www.typescriptlang.org/)
